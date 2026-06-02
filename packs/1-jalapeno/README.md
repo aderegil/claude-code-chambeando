@@ -1,6 +1,6 @@
 # Pack Jalapeño
 
-135 verbos en gerundio en español de México para el spinner de Claude Code. Aptos para cualquier sala: cliente externo, demos formales, pantalla compartida.
+165 verbos en gerundio en español de México para el spinner de Claude Code. Aptos para cualquier sala: cliente externo, demos formales, pantalla compartida.
 
 ## Cómo instalar
 
@@ -43,7 +43,7 @@ Tu `settings.json` debería verse así:
       "Achicharrándose",
       "Achicopalándose",
       "Acicalando",
-      "...y 132 más"
+      "...y 162 más"
     ]
   }
 }
@@ -86,45 +86,65 @@ No existe un modo `disable` oficial. Para volver al spinner en inglés:
 
 ## Lista completa por categoría
 
-### Música (9)
+### Música (11)
 
-Cantando La Bamba · Cantando La Cucaracha · Cantando Las Mañanitas · Chiflando El Cascabel · Cumbiando · Echando palomazo · Serenateando · Sonideando · Tarareando La Llorona
+Cantando Cielito Lindo · Cantando El Rey · Cantando Las Mañanitas · Cantando México Lindo y Querido · Cumbiando · Echando palomazo · Llevando serenata · Mariacheando · Sonideando · Tarareando La Cucaracha · Tarareando La Llorona
 
-### Gastronomía (24)
+### Gastronomía (26)
 
-Antojándose · Birrieando · Botaneando · Chilaquileando · Echándole limón · Esquiteando · Guacamoleando · Itacateando · Mixioteando · Molcajeteando · Palmeando tortillas · Pozoleando · Probando la sazón · Quesadilleando · Refresqueando · Salseando · Sazonando · Sopeando · Tamaleando · Taqueando · Tatemando · Torteando · Tortillando · Volteando la tortilla
+Antojándose · Atascándose · Birrieando · Botaneando · Chilaquileando · Cocinando a fuego lento · Echándole guacamole · Echándole limón · Echándose un taco · Haciendo sopes · Itacateando · Jurando que no pica · Mixioteando · Molcajeteando · Poniéndole frijolitos · Pozoleando · Quesadilleando · Recalentando · Refresqueando · Salseando · Sazonando · Tamaleando · Taqueando · Tatemando · Torteando · Volteando la tortilla
 
 ### Turismo (3)
 
 Peregrinando · Puebleando · Turisteando
 
-### Deporte (8)
+### Deporte (3)
 
-Cascariteando · Jineteando · Lazando · Llaveando · Lucheando · Manganeando · Pamboleando · Plancheando
+Cascareando · Jineteando · Luchando
 
-### Religión (11)
+### Religión (10)
 
-Altareando · Bendiciendo · Calaveriteando · Copaleando · Mañaniteando · Ofrendando · Pidiendo posada · Posadeando · Procesionando · Rosqueando · Velando
+Bendiciendo · Calaveriteando · Encomendándose a La Virgencita · Encomendándose a San Judas · Mañaniteando · Ofrendando · Partiendo la rosca · Peregrinando a la Villa · Persignándose tres veces · Pidiendo posada
 
-### Trabajo (35)
+### Trabajo (41)
 
-Acocoteando · Acomidiéndose · Aguzándose · Amarrando cabos · Apechugando · Chambeando · Charoleando · Cocinándola · Cuadrándola · Cuajándola · Echando aguas · Echándole ganas · Encarrerándose · Encontrándole el modo · Faroleando · Franeleando · Gorreando · Haciendo el paro · Hilando fino · Jalando · Jalando parejo · Madrugándole · Mecateando · No rajándose · Palomeando · Pastoreando · Pizcando · Poniéndose las pilas · Rifando · Rifándosela · Sacándole punta · Sacando la casta · Sacándolo adelante · Talacheando · Tramando
+Acomidiéndose · Amarrando cabos · Apachurrando teclas · Apechugando · Calentando la silla · Chambeando · Charoleando · Combiando · Echando aguas · Echando maromas · Echándole ganas · Encarrerándose · Encontrándole el modo · Escombrando · Faroleando · Franeleando · Godineando · Gorreando · Haciendo el jale · Haciendo el paro · Jalando · Jalando parejo · Madrugándole · Mangoneando · Ninguneando · No rajándose · Palomeando · Pastoreando · Pesereando · Pizcando · Poniéndose las pilas · Quincenando · Rifándosela · Ruleteando · Sacando chispas · Sacando la casta · Sacando la chamba · Sacándole punta · Sacándolo adelante · Talacheando · Tramando
 
-### Amistades (12)
+### Amistades (16)
 
-Argüendeando · Borloteando · Carrilleando · Chismeando · Ciscándose · Comadreando · Cotorreando · Cuchicheando · Mitoteando · Payaseando · Relajeando · Vacilando
+Albureando · Argüendeando · Borloteando · Chachareando · Chismeando · Comadreando · Cotorreando · Cuchicheando · Echando carrilla · Jugando Lotería · La última y nos vamos · Mitoteando · Payaseando · Pisteando · Relajeando · Vacilando
 
 ### Naturaleza (2)
 
 Achicharrándose · Asoleándose
 
-### Familia (9)
+### Familia (7)
 
-Acicalando · Apapachando · Arrullando · Chancleando · Cobijando · Compadreando · Consintiéndolo · Despelucando · Encariñándose
+Acicalando · Apapachando · Arrullando · Chancleando · Compadreando · Despelucando · Encariñándose
 
-### Popular (22)
+### Popular (36)
 
-Achicopalándose · Aguajándose · Alebrestándose · Alebrijeando · Amolando · Apantallando · Apolismándose · Agüitándose · Balconeando · Brincoteando · Chachareando · Chapulineando · Chichicuiloteando · Desconchinflando · Escombrando · Fregando · Ninguneando · Pajareando · Regateando · Renegando · Respingando · Ruleteando
+Achicopalándose · Agüitándose · Alebrestándose · Alebrijeando · Apantallando · Balconeando · Brincoteando · Buscándole tres pies al gato · Chapulineando · Chichicuiloteando · Cortocircuiteándose · Dándole vuelo a la hilacha · Desconchinflando · Descubriendo el agua tibia · Echando flojera · Echando mosca · Echando un volado · Echándose flores solito · Echándose un clavado · Echándose un coyotito · Haciéndose guaje · Haciéndose pato · Hecho bolas · Inventando el hilo negro · Inventando la rueda · Metiendo la pata · No eres tú, soy yo · Pajareando · Patinándole el coco · Planchando oreja · Regándola bonito · Regateando · Renegando · Respingando · Tianguiseando · Tocando madera
+
+### Avance (10)
+
+Frases de "ya merito" — el clásico optimismo mexicano sobre el tiempo restante. Especialmente apropiadas para un spinner.
+
+Aguantando tantito · Ahí la llevo · Ahorita mero queda · Ahorita queda · Ahoritita queda · Apurándose · En un ratito queda · Voy en chinga · Ya casi queda · Ya merito
+
+## Novedades v0.2
+
+De 135 a 165 verbos: **69 agregados, 39 retirados** (neto +30). Se estrenó la categoría **Avance** con las frases de "ya merito".
+
+**Agregados (69)**
+
+Aguantando tantito · Ahí la llevo · Ahorita mero queda · Ahorita queda · Ahoritita queda · Albureando · Apachurrando teclas · Apurándose · Atascándose · Buscándole tres pies al gato · Calentando la silla · Cantando Cielito Lindo · Cantando El Rey · Cantando México Lindo y Querido · Cascareando · Cocinando a fuego lento · Combiando · Cortocircuiteándose · Dándole vuelo a la hilacha · Descubriendo el agua tibia · Echando carrilla · Echando flojera · Echando maromas · Echando mosca · Echando un volado · Echándole guacamole · Echándose flores solito · Echándose un clavado · Echándose un coyotito · Echándose un taco · En un ratito queda · Encomendándose a La Virgencita · Encomendándose a San Judas · Godineando · Haciendo el jale · Haciendo sopes · Haciéndose guaje · Haciéndose pato · Hecho bolas · Inventando el hilo negro · Inventando la rueda · Jugando Lotería · Jurando que no pica · La última y nos vamos · Llevando serenata · Luchando · Mangoneando · Mariacheando · Metiendo la pata · No eres tú, soy yo · Partiendo la rosca · Patinándole el coco · Peregrinando a la Villa · Persignándose tres veces · Pesereando · Pisteando · Planchando oreja · Poniéndole frijolitos · Quincenando · Recalentando · Regándola bonito · Sacando chispas · Sacando la chamba · Tarareando La Cucaracha · Tianguiseando · Tocando madera · Voy en chinga · Ya casi queda · Ya merito
+
+**Retirados (39)**
+
+Acocoteando · Aguajándose · Aguzándose · Altareando · Amolando · Apolismándose · Cantando La Bamba · Cantando La Cucaracha · Carrilleando · Cascariteando · Chiflando El Cascabel · Ciscándose · Cobijando · Cocinándola · Consintiéndolo · Copaleando · Cuadrándola · Cuajándola · Esquiteando · Fregando · Guacamoleando · Hilando fino · Lazando · Llaveando · Lucheando · Manganeando · Mecateando · Palmeando tortillas · Pamboleando · Plancheando · Posadeando · Probando la sazón · Procesionando · Rifando · Rosqueando · Serenateando · Sopeando · Tortillando · Velando
+
+Algunas formas se sustituyeron por una variante más idiomática (p. ej. `Cantando La Cucaracha` → `Tarareando La Cucaracha`, `Lucheando` → `Luchando`, `Plancheando` → `Planchando oreja`, `Rosqueando` → `Partiendo la rosca`).
 
 ## Bug conocido
 

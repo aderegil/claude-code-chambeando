@@ -34,13 +34,14 @@ El repo nunca incluirá:
 
 - Vulgaridad explícita sin componente afectivo
 - Referencias sexuales explícitas o implícitas claras
-- Albures, incluso "suaves"
 - Insultos directos a la madre o ataques personales
 - Contenido racista, clasista, sexista, homofóbico
-- Referencias a alcohol, drogas, sustancias
+- Referencias a drogas o sustancias ilegales
 - Palabras cuya primera lectura aislada sea sexual o agresiva
 
-Esta línea está fijada. No habrá un nivel 3 (Habanero) que la cruce. No habrá "edición especial" que la relaje. Si alguien quiere ese contenido, hay otros repos.
+Desde v0.2 el albur suave y la referencia cultural al alcohol sí entran: la cumbia, la cantina, la fiesta y la última que nunca es la última son habla viva mexicana, no vulgaridad. El albur que entra es el juguetón, el de doble sentido ligero; el albur sexual explícito sigue fuera. El alcohol que entra es el cultural y festivo; nunca la apología ni la sustancia ilegal.
+
+Esta lista es lo que no se mueve. No habrá un nivel 3 (Habanero) que la cruce, ni "edición especial" que la relaje. Si alguien quiere ese contenido, hay otros repos.
 
 ---
 

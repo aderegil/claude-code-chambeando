@@ -12,17 +12,17 @@ No es traducción. Es habla viva.
 
 Una colección curada de gerundios mexicanos, organizados en paquetes por nivel de picante. Cada paquete es un archivo JSON que se instala como configuración de Claude Code.
 
-La selección sigue criterio editorial estricto: nada de tropos corporativos, ni albures, ni marcas registradas, ni canciones con derechos vigentes. Lo que sí entra: habla viva mexicana real, construcciones juguetonas con raíces identitarias, sabores regionales con peso cultural.
+La selección sigue criterio editorial estricto: nada de tropos corporativos ni marcas registradas. Lo que sí entra: habla viva mexicana real, construcciones juguetonas con raíces identitarias, albures suaves, guiños festivos y de cantina, títulos de canción como referencia cultural, y sabores regionales con peso cultural.
 
 ## Qué hay en esta primera edición
 
-**Pack Jalapeño v0.1** — 135 verbos limpios aptos para cualquier sala. Cliente externo, demos formales, pantalla compartida. Distribuidos en 10 categorías culturales: Música, Gastronomía, Turismo, Deporte, Religión, Trabajo, Amistades, Naturaleza, Familia y Popular.
+**Pack Jalapeño v0.2** — 165 verbos limpios aptos para cualquier sala. Cliente externo, demos formales, pantalla compartida. Distribuidos en 11 categorías culturales: Música, Gastronomía, Turismo, Deporte, Religión, Trabajo, Amistades, Naturaleza, Familia, Popular y Avance.
 
 [Ver el pack y cómo instalarlo](packs/1-jalapeno/)
 
 ## Qué viene después
 
-**Pack Serrano** — versión extendida del Jalapeño con verbos exclusivos de grosería afectiva y alcohol cultural adulto. Apto solo para sesiones internas con cuates. Vendrá en una próxima edición.
+**Pack Serrano** — versión extendida del Jalapeño con verbos exclusivos de grosería afectiva mexicana y picante subido de tono. Apto solo para sesiones internas con cuates. Vendrá en una próxima edición.
 
 **Fichas culturales** — origen, etimología y contexto cultural de cada verbo. Para quien quiera entender por qué *Apapachando* viene del náhuatl o por qué *Itacateando* es lo que tu mamá hizo cuando saliste de su casa con tupperware.
 
