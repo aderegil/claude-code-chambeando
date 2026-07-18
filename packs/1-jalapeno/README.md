@@ -27,6 +27,15 @@ Hay dos lugares válidos según qué tan amplio quieras el cambio.
 
 Si el archivo que elegiste no existe, créalo. Si existe pero ya tiene contenido, agrega solo la clave `spinnerVerbs` dentro del objeto principal.
 
+**Windows, instalación automática:** en vez de editar el JSON a mano, puedes correr [`instalar-windows.bat`](instalar-windows.bat) (doble clic o desde una terminal). Aplica el bloque `spinnerVerbs` directamente a `%USERPROFILE%\.claude\settings.json`, respalda tu `settings.json` existente antes de tocarlo y preserva el resto de tus claves. Acepta `append` o `replace` como argumento opcional para elegir el modo:
+
+```bat
+instalar-windows.bat
+instalar-windows.bat append
+```
+
+Requiere PowerShell (viene incluido en Windows) y que el archivo se ejecute desde dentro de `packs/1-jalapeno/` del repo, junto a `jalapeno.json`.
+
 ### 3. Pega solo el bloque `spinnerVerbs`
 
 Abre [`jalapeno.json`](jalapeno.json). Verás dos claves: `_meta` y `spinnerVerbs`.
