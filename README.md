@@ -30,6 +30,15 @@ La selección sigue criterio editorial estricto: nada de tropos corporativos ni 
 
 Requiere Claude Code v2.1.23 o superior.
 
+### Opción 1: con script (recomendada)
+
+Descarga un solo archivo de [`scripts/`](scripts/), ábrelo con doble clic y elige **Instalar** o **Desinstalar**. Solo toca la clave `spinnerVerbs` de tu `~/.claude/settings.json`. Reinicia Claude Code para ver los cambios.
+
+- **Windows:** [`claude-code-chambeando.bat`](scripts/claude-code-chambeando.bat). Si SmartScreen avisa, elige "Más información" y "Ejecutar de todos modos". El código es PowerShell en claro dentro del mismo archivo.
+- **Mac:** [`claude-code-chambeando.command`](scripts/claude-code-chambeando.command). La primera vez, clic derecho, "Abrir" y confirma, porque macOS marca los archivos descargados. Si no abre, corre `chmod +x` sobre el archivo.
+
+### Opción 2: a mano
+
 Edita tu `~/.claude/settings.json` y agrega el contenido de `packs/1-jalapeno/jalapeno.json`. La guía detallada está en [packs/1-jalapeno/README.md](packs/1-jalapeno/README.md).
 
 ## Manifiesto
